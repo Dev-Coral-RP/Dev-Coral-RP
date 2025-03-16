@@ -29,9 +29,9 @@ I'm a **Full-Stack Developer** aspiring to be a **Software Engineer**. I have a 
 
 ### 🌐 Connect with Me
 - 🌍 **Website:** [devcoral.xyz](https://devcoral.xyz)
-- 💬 **Discord:**
+- 💬 **Discord:*dev_coral*
 
-[![Discord](https://dcbadge.vercel.app/api/shield/338953992571396116?style=flat)](https://discord.com/users/338953992571396116)
+6116)
 
 ---
 
